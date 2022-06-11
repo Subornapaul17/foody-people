@@ -1,0 +1,115 @@
+body {
+    font-family: 'Tiro Devanagari Hindi', serif;
+    margin: 0;
+
+}
+
+#color {
+    color: orangered;
+}
+
+.half-width {
+    width: 70%;
+    padding-left: 30px;
+    font-size: 25px;
+}
+
+.half-width img {
+    width: 70%;
+
+    padding-left: 80px;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+
+
+
+.order {
+    text-decoration: none;
+    font-weight: 1000;
+    background-image: linear-gradient(orange, orangered);
+    border-radius: 50px;
+    padding: 15px 30px;
+    color: black;
+    font-size: 20px;
+
+}
+
+
+
+.part2 {
+    width: 50%;
+
+
+}
+
+.part2 img {
+    width: 50%;
+    padding-left: 200px;
+}
+
+.flexible-container {
+    display: flex;
+
+
+}
+
+
+
+.bg {
+    background-image: url(images/7.png);
+
+}
+
+p {
+    overflow-wrap: break-word;
+    padding-right: 30%;
+}
+
+.contact {
+    text-decoration: none;
+    padding: 15px 30px;
+    border-radius: 25px;
+    background-image: linear-gradient(orange, orangered);
+    color: black;
+}
+
+.para {
+    padding-left: 30%;
+}
+
+
+.receipe {
+    width: 25%;
+    margin: 20px 20px;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 20px;
+
+}
+
+.recipie img {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+
+.items {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+
+.fc1 {
+    display: flex;
+
+
+}
