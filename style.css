@@ -121,10 +121,19 @@ p {
 
 .sub {
     display: flex;
-    box-shadow: 5px 5px 10px;
+    box-shadow: 5px 5px 8px;
     justify-content: center;
+    margin: 10%;
 }
 
 .design {
     margin: 40px 100px;
+}
+
+.last {
+    text-align: center;
+    background-color: black;
+
+    background-size: 100%;
+    padding: 50px;
 }
